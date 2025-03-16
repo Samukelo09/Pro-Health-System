@@ -1,0 +1,26 @@
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\bin\Debug\Appointment Management.exe.config
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\bin\Debug\Appointment Management.exe
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\bin\Debug\Appointment Management.pdb
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.AddPatientInfo.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.ApptPayment.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.ApptPaymentForm.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.CardPaymentDetails.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.DeleteAndUpdatePatient.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.Calendar.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.MainMenu.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.MDIParent.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.AddAppointment.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.Login.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.AddDoctorForm.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.PatientRecord.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.PatientVitals.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.PaymentSlip.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.Properties.Resources.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.UpdateDrInfo.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.UpdatePatientFrom.resources
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment Management.csproj.GenerateResource.cache
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment Management.csproj.CoreCompileInputs.cache
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment Management.exe
+C:\Users\221008458\Source\Repos\Appointment-Management\Appointment Management\obj\Debug\Appointment Management.pdb
+C:\Users\221008458\source\repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.ModifyDrInfo.resources
+C:\Users\221008458\source\repos\Appointment-Management\Appointment Management\obj\Debug\Appointment_Management.CancelAppt.resources
